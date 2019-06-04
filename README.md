@@ -1,7 +1,7 @@
 # My-Portfolio
 ### By Marcin Szopik
 
-_The purpose of this website to provide information about myself for my instructors at Epicodus coding school and potential employers._
+_Providing information about myself for my instructors at Epicodus coding school and potential employers._
 
 ### Setup Instructions
 This page runs in all modern browsers and requires no additioanl installation packages.
@@ -12,9 +12,9 @@ This page runs in all modern browsers and requires no additioanl installation pa
 * _Bootstrap_
 
 ### Support and Contact Detals
-_Feel free to contact me if you have any questions. My contact information is listed at the bottom of the main page at https://svsavchuk.github.io/portfolio._
+_With any questions feel free to contact me . My contact information is listed at the bottom of the main page at hth
 
 ### License
 _The content of this site is licensed under MIT._
-
+http//.szopiks@yahoo.com
 Copyright (c) 2019 Marcin Szopik
