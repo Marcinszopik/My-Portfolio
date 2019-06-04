@@ -12,7 +12,7 @@ This page runs in all modern browsers and requires no additioanl installation pa
 * _Bootstrap_
 
 ### Support and Contact Detals
-_With any questions feel free to contact me . My contact information is listed at the bottom of the main page at hth
+_With any questions feel free to contact me . My contact information is listed at the bottom of the main page at https://marcinszopik.github.io/My-Portfolio/
 
 ### License
 _The content of this site is licensed under MIT._
