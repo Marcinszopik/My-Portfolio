@@ -16,5 +16,5 @@ _With any questions feel free to contact me . My contact information is listed a
 
 ### License
 _The content of this site is licensed under MIT._
-http//.szopiks@yahoo.com
+ http//.szopiks@yahoo.com
 Copyright (c) 2019 Marcin Szopik
